@@ -1,0 +1,14 @@
+[
+  {
+    "code": "TIFALPHA24",
+    "startDate": "2024-10-18T00:00Z",
+    "endDate": "2025-01-31T00:00Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 22,
+        "amount": 1
+      }
+    ]
+  }
+]
