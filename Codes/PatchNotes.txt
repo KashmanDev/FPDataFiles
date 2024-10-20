@@ -1,0 +1,10 @@
+FUTAMON PARADISE \color[#03a9fc] \fs[14] Version Alpha 0.0.1 \fs[22] \color[#ffffff]
+
+\fs[37]PATCH NOTES VERSION 0.0.1: \color[#03a9fc]\fs[22] 
+ 
+- Added 72 NEW Cards.
+- Added 4 NEW Monster.
+- Added 2 NEW Locations.
+- Reworked 4 Cards.
+- Reworked 1 Map.
+- Removed 3 Items.
